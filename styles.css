@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-family: monospace;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(60, 60, 60);
+    color: rgb(230, 230, 230)
+}
+
+h1 {
+    font-size: 60px;
+}
+
+footer p {
+    font-size: 16px;
+    display: inline-block;  
+}
+
+p {
+    font-size: 18px;
+}
+
+#computer {
+    width: 50%;
+    border-radius: 50%;
+}
+
+.images {
+    width: 30%;
+    border-radius: 10%;
+    display: inline-block;
+}
+
+li {
+    list-style-type: none;
+    font-size: 18px;
+}
+
+a {
+    color: rgb(230, 230, 230)
+}
